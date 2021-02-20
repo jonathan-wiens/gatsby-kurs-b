@@ -1,4 +1,4 @@
-# Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
+# Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio) [![Netlify Status](https://api.netlify.com/api/v1/badges/87e231e0-8ae9-49fe-b17d-38c8406d3f5c/deploy-status)](https://app.netlify.com/sites/tender-mayer-e67727/deploys)
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
@@ -20,7 +20,6 @@
 
 To view a demo example, **[click here](https://gatsby-simplefolio.netlify.com/)**\
 To view a live example, **[click here](https://cobidev.com/)**
-[![Netlify Status](https://api.netlify.com/api/v1/badges/87e231e0-8ae9-49fe-b17d-38c8406d3f5c/deploy-status)](https://app.netlify.com/sites/tender-mayer-e67727/deploys)
 
 ---
 
