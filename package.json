@@ -11,7 +11,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "tests ok"
+    "test": "echo \"tests ok\""
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
